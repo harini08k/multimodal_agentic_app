@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91224273083",
+    "project_id": "my-cool-project-db75d",
+    "storage_bucket": "my-cool-project-db75d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91224273083:android:26e9b1364fd3aea66bb99e",
+        "android_client_info": {
+          "package_name": "com.example.agenticapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvB6eXgYt_KzBG1q5_EsH-z4ZYCIFBAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
